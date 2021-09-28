@@ -6,13 +6,10 @@
     "chai": "^4.3.4",
     "dotenv": "^10.0.0",
     "ethereum-waffle": "^3.4.0",
-    "ethers": "^5.4.7",
+    "ethers": "^5.4.6",
     "hardhat": "^2.6.1"
   },
   "scripts": {
     "start": "node -r dotenv/config src/index.js"
-  },
-  "dependencies": {
-    "@openzeppelin/contracts": "^4.3.2"
   }
 }
